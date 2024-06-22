@@ -1,11 +1,11 @@
 title: Jonnel Mendoza # your name (or website title) here
 logo: "Github_pic.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Aspiring Data Analyst
   <br><br>
-  Second description 
-  <br><br>
-  <a href="www.linkedin.com/in/jonnelmendoza">View My LinkedIn Profile</a> 
+
+
+  <a href="https://www.linkedin.com/in/jonnelmendoza">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
