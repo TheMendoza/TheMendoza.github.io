@@ -4,8 +4,16 @@
 
 ### Just IT Assignments  
 
-Power BI - Dashboard Exercise
-<img src="PowerBI_dashboard2.JPG?raw=true"/>
+Power BI - Executive Summary Dashboard (Dark)
+<img src="PowerBI_Executive_Summary_Finance_Report_DARK.png?raw=true"/>
+
+---
+Power BI - Executive Summary Dashboard (Light)
+<img src="PowerBI_Executive_Summary_Finance_Report_LIGHT.png?raw=true"/>
+
+---
+Power BI - Sales Report Dashboard
+<img src="PowerBI_sales_report.png?raw=true"/>
 
 ---
 Power BI - Dashboard Exercise
