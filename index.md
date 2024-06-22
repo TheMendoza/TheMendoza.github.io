@@ -8,8 +8,8 @@
 <img src="Tableau_1st_dashboard.JPG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tableau - Changes in the British Industry](https://public.tableau.com/app/profile/jonnel.mendoza/viz/EMSI_JobChange_UK_Tableau_exercise/Dashboard1)
+<img src="Changes_in_British_Industry_tableau.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
