@@ -4,7 +4,7 @@
 
 ### Just IT Assignments  
 
-[Tableau - Superstore Profit Dashboard](https://public.tableau.com/app/profile/jonnel.mendoza/viz/Just_IT_Tableau_exercise/Dashboard1)
+[Tableau - The Wealth of Nations](https://public.tableau.com/app/profile/jonnel.mendoza/viz/The_Wealth_of_Nations_Assignment1/Dashboard1)
 <img src="Tableau_1st_dashboard.JPG?raw=true"/>
 
 ---
@@ -12,8 +12,8 @@
 <img src="Changes_in_British_Industry_tableau.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tableau - Superstore Profit Dashboard](https://public.tableau.com/app/profile/jonnel.mendoza/viz/Just_IT_Tableau_exercise/Dashboard1)
+<img src="Tableau_1st_dashboard.JPG?raw=true"/>
 
 ---
 
