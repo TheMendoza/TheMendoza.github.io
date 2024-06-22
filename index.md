@@ -4,7 +4,7 @@
 
 ### Just IT Assignments  
 
-[Tableau - Superstore Profit Dashboard]([/sample_page](https://public.tableau.com/app/profile/jonnel.mendoza/viz/Just_IT_Tableau_exercise/Dashboard1))
+[Tableau - Superstore Profit Dashboard](https://public.tableau.com/app/profile/jonnel.mendoza/viz/Just_IT_Tableau_exercise/Dashboard1)
 <img src="Tableau_1st_dashboard.JPG?raw=true"/>
 
 ---
