@@ -6,6 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
 
 
   <a href="https://www.linkedin.com/in/jonnelmendoza">View My LinkedIn Profile</a> 
+
+  <a href="https://public.tableau.com/app/profile/jonnel.mendoza/vizzes">View My Tableau Public</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
