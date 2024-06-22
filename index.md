@@ -4,8 +4,12 @@
 
 ### Just IT Assignments  
 
-[Power BI - Dashboard Exercise](https://public.tableau.com/app/profile/jonnel.mendoza/viz/The_Wealth_of_Nations_Assignment1/Dashboard1)
-<img src="Top20_highest_ranking_GDP_per_capita.JPG?raw=true"/>
+[Power BI - Dashboard Exercise]
+<img src="PowerBI_dashboard2.JPG?raw=true"/>
+
+---
+[Power BI - Dashboard Exercise]
+<img src="PowerBI_dashboard1.JPG?raw=true"/>
 
 ---
 [Tableau - The Wealth of Nations](https://public.tableau.com/app/profile/jonnel.mendoza/viz/The_Wealth_of_Nations_Assignment1/Dashboard1)
