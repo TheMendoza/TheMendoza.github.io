@@ -4,8 +4,8 @@
 
 ### Just IT Assignments  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tableau - Superstore Profit Dashboard](/sample_page)
+<img src="Tableau_1st_dashboard.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
