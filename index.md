@@ -33,6 +33,17 @@ Power BI - Dashboard Exercise
 
 ---
 
+### Tableau
+
+[Tableau - Patient Satisfaction Survey Results - Imaging Department](https://public.tableau.com/app/profile/jonnel.mendoza/viz/PSS_tableau/Dashboard1)
+<img src="Tableau_PSS_results_Imaging.JPG?raw=true"/>
+
+---
+[Tableau - Mandatory Training Compliance Dashboard](https://public.tableau.com/app/profile/jonnel.mendoza/viz/Mandatory_training_compliance_dashboard/Dashboard1)
+<img src="Tableau_Mandatory_training_compliance.JPG?raw=true"/>
+
+---
+
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
