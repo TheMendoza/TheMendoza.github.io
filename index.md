@@ -39,6 +39,10 @@ Power BI - Dashboard Exercise
 
 ### Tableau
 
+[Tableau - Resume](https://public.tableau.com/app/profile/jonnel.mendoza/viz/Tableau_CV1_experiment/Dashboard12)
+<img src="Tableau_Resume.JPG?raw=true"/>
+
+
 [Tableau - Patient Satisfaction Survey Results - Imaging Department](https://public.tableau.com/app/profile/jonnel.mendoza/viz/PSS_tableau/Dashboard1)
 <img src="Tableau_PSS_results_Imaging.JPG?raw=true"/>
 
