@@ -17,6 +17,10 @@ Power BI - Sales Report Dashboard
 
 ---
 Power BI - Dashboard Exercise
+<img src="PowerBI_dashboard2.JPG?raw=true"/>
+
+---
+Power BI - Dashboard Exercise
 <img src="PowerBI_dashboard1.JPG?raw=true"/>
 
 ---
