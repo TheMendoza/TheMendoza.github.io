@@ -5,7 +5,7 @@
 ### Just IT Assignments  
 
 Power BI - Practical Task - Caffeine Form
-<img src="PowerBI_coffeeshopinsights.JPG?raw=true"/>
+<img src="PowerBI_coffeeshopinsights1.JPG?raw=true"/>
 
 ---
 Power BI - Executive Summary Dashboard (Dark)
