@@ -2,6 +2,13 @@
 
 ---
 
+### Latest work
+
+Power BI - Metropolitan Police Crime Data - January - April 2024
+<img src="PowerBI_MP_crime_data_2024_Jan-Apr.JPG?raw=true"/>
+
+---
+
 ### Just IT Assignments  
 
 Power BI - Practical Task - Caffeine Form
