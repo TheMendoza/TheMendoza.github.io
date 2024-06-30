@@ -8,7 +8,7 @@ Power BI - Metropolitan Police | Stop & Search | January - April 2024
 <img src="PowerBI_MP_stopandsearch_2024_Jan-Apr.JPG?raw=true"/>
 
 ---
-Power BI - Metropolitan Police | Street Crime | - January - April 2024
+Power BI - Metropolitan Police | Street Crime | January - April 2024
 <img src="PowerBI_MP_crime_data_2024_Jan-Aprfinale.JPG?raw=true"/>
 
 ---
