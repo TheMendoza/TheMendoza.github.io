@@ -2,7 +2,7 @@
 
 ---
 
-### Latest works
+### Latest Project
 
 Power BI - Metropolitan Police | Stop & Search | January - April 2024
 <img src="PowerBI_MP_stopandsearch_2024_Jan-Apr.JPG?raw=true"/>
