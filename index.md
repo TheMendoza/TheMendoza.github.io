@@ -5,7 +5,7 @@
 ### Current Project
 
 [Tableau - UK Police Force | Street Crime Dashboard | January - April 2024: Monitoring Trends and Hotspots]
-<img src="Tableau_MP_crime_data_2024_Jan-Apr_CURRENT2.JPG?raw=true"/>
+<img src="Tableau_current_project_July2024.JPG?raw=true"/>
 
 ---
 
