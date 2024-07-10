@@ -6,6 +6,10 @@
 
 [Tableau - UK Police Force | Street Crime Dashboard | January - April 2024: Monitoring Trends and Hotspots](https://public.tableau.com/app/profile/jonnel.mendoza/viz/AllForces2024/Dashboard12?publish=yes)
 <img src="Tableau_current_project_July2024_4.JPG?raw=true"/>
+<p><strong>About</strong><br>Brief project description here</p>
+<p><strong>A1. About Dataset:</strong><br>df.info()</p>
+<p><strong>A2. Tools Used for this Project</strong><br>Tableau, Excel, and SQL</p>
+<hr>
 
 ---
 
