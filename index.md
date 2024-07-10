@@ -9,10 +9,9 @@
 <p><strong>Purpose and Objectives</strong><br>Monitoring trends and identifying hotspots in street crime in the UK</p>
 <p><strong>Questions it should answer:</strong> What are the trends in street crime over the specified period? Where are the hotspots of street crime located?</p>
 <p><strong>Decisions it should inform:</strong> Deployment of police resources, adjustment of crime prevention strategies, and allocation of investigative efforts.</p>
-<p><strong>A1. About Dataset:</strong><br>df.info()</p>
-<p><strong>A2. Tools Used for this Project</strong><br>Tableau, Excel, and SQL</p>
+<p><strong>About Dataset:</strong><br>df.info()</p>
+<p><strong>Tools Used for this Project</strong><br>Tableau, Excel, and SQL</p>
 <p><strong>Download Full Analysis</strong><br>.pdf</p>
-<hr>
 
 ---
 
