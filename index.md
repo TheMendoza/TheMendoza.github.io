@@ -9,6 +9,7 @@
 <p><strong>About</strong><br>Brief project description here</p>
 <p><strong>A1. About Dataset:</strong><br>df.info()</p>
 <p><strong>A2. Tools Used for this Project</strong><br>Tableau, Excel, and SQL</p>
+<p><strong>Download Full Analysis</strong><br>.pdf</p>
 <hr>
 
 ---
