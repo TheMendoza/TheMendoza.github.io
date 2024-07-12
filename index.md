@@ -76,7 +76,7 @@ Power BI - Dashboard Exercise
 
 
 [Tableau - Report Turnaround Times - Imaging Department (finding breach)](https://public.tableau.com/app/profile/jonnel.mendoza/viz/RT_remake1/Dashboard1)
-<img src="Tableau_RT2.0.JPG?raw=true"/>
+<img src="RT_Dashboard1.png?raw=true"/>
 
 ---
 [Tableau - Patient Satisfaction Survey Results - Imaging Department](https://public.tableau.com/app/profile/jonnel.mendoza/viz/PSS_tableau/Dashboard1)
