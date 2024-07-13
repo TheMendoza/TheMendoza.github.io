@@ -11,7 +11,7 @@
 <p><strong>Decisions it should inform:</strong> Deployment of police resources, adjustment of crime prevention strategies, and allocation of investigative efforts.</p>
 <p><strong>About Dataset:</strong><br>df.info()<br><img src="UK_AllForces2024_Project_Python.JPG?raw=true"/></p>
 <p><strong>Tools Used for this Project</strong><br>Tableau, Excel, Power BI, and Python</p>
-<p><strong>See Full Analysis</strong><br>coming_soon.pdf</p>
+<p><strong>See Full Overview</strong><br>coming_soon.pdf</p>
 
 ---
 
