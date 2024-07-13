@@ -5,12 +5,12 @@
 ### Current Project
 
 [Tableau - UK Police Force | Street Crime Dashboard | January - April 2024: Monitoring Trends and Hotspots](https://public.tableau.com/app/profile/jonnel.mendoza/viz/AllForces2024/Dashboard1)
-<img src="Tableau_current_project_July2024_4.JPG?raw=true"/>
+<img src="AllForces_latest_140723.png?raw=true"/>
 <p><strong>Purpose and Objectives</strong><br>Monitoring trends and identifying hotspots in street crime in the UK</p>
 <p><strong>Questions it should answer:</strong> What are the trends in street crime over the specified period? Where are the hotspots of street crime located?</p>
 <p><strong>Decisions it should inform:</strong> Deployment of police resources, adjustment of crime prevention strategies, and allocation of investigative efforts.</p>
 <p><strong>About Dataset:</strong><br>df.info()<br><img src="UK_AllForces2024_Project_Python.JPG?raw=true"/></p>
-<p><strong>Tools Used for this Project</strong><br>Tableau, Excel, Power BI, SQL, and Python</p>
+<p><strong>Tools Used for this Project</strong><br>Tableau, Excel, Power BI, and Python</p>
 <p><strong>See Full Analysis</strong><br>coming_soon.pdf</p>
 
 ---
