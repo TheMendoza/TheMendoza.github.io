@@ -23,7 +23,7 @@
 ---
 Power BI - Metropolitan Police | Stop & Search | January - April 2024
 <img src="PowerBI_MP_stopandsearch_2024_Jan-Apr.JPG?raw=true"/>
-<p><strong><a href="https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UK%20Police%20Force%20Street%20Crime%20Dashboard%20Overview.pdf" target="_blank">See Full Overview</a></strong></p>
+<p><strong><a href="https://github.com/TheMendoza/TheMendoza.github.io/blob/main/PowerBI_MP_stopandsearch_2024_Jan-Apr.JPG" target="_blank">See Full Overview</a></strong></p>
 
 ---
 Power BI - Metropolitan Police | Street Crime | January - April 2024
