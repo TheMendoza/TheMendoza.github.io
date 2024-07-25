@@ -4,6 +4,17 @@
 
 ### Current Project
 
+Insights Into Healthcare Costs | Identifying Key Drivers
+
+<p><strong><a href="https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UK%20Police%20Force%20Street%20Crime%20Dashboard%20Overview.pdf" target="_blank">See Full Overview</a></strong></p>
+<p><strong>Purpose and Objectives</strong><br>To understand the factors that influence medical insurance costs and to develop predictive model for estimating healthcare expenses.</p>
+<p><strong>Scope:</strong> Loading and preprocessing the data, conducting Exploratory Data Analysis (EDA), visualizations, performing correlation analysis, summarizing the findings, and deriving actionalble insights to guide insurance companies and public health initiatives.</p>
+
+
+---
+
+### Latest Project
+
 [Tableau - UK Police Force | Street Crime Dashboard | January - April 2024: Monitoring Trends and Hotspots](https://public.tableau.com/app/profile/jonnel.mendoza/viz/AllForces2024/Dashboard1)
 <img src="AllForces_latest_160724.png?raw=true"/>
 <p><strong><a href="https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UK%20Police%20Force%20Street%20Crime%20Dashboard%20Overview.pdf" target="_blank">See Full Overview</a></strong></p>
@@ -12,10 +23,6 @@
 <p><strong>Decisions it should inform:</strong> Deployment of police resources, adjustment of crime prevention strategies, and allocation of investigative efforts.</p>
 <p><strong>About Dataset:</strong><br>df.info()<br><img src="UK_AllForces2024_Project_Python.JPG?raw=true"/></p>
 <p><strong>Tools Used for this Project</strong><br>Tableau, Excel, Power BI, and Python</p>
-
----
-
-### Latest Project
 
 Power BI - UK Street Crimes | KPI Cards | January - May 2024
 <img src="UKStreetCrimesKPICards.gif?raw=true"/>
