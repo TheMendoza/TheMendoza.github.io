@@ -5,7 +5,7 @@
 ### Current Project
 
 Insights Into Healthcare Costs | Identifying Key Drivers
-
+<img src="Python_Project1_Healthcare_Costs2.png?raw=true"/>
 <p><strong><a href="https://github.com/TheMendoza/TheMendoza.github.io/blob/main/Insights%20into%20Healthcare%20Costs%20-%20Identifying%20Key%20Drivers.pdf" target="_blank">See Full Overview</a></strong></p>
 <p><strong>Purpose and Objectives</strong><br>To understand the factors that influence medical insurance costs and to develop predictive model for estimating healthcare expenses.</p>
 <p><strong>Scope:</strong> Loading and preprocessing the data, conducting Exploratory Data Analysis (EDA), visualizations, performing correlation analysis, summarizing the findings, and deriving actionalble insights to guide insurance companies and public health initiatives.</p>
