@@ -8,8 +8,8 @@ Insights Into Healthcare Costs | Identifying Key Drivers
 <img src="Python_Project1_Healthcare_Costs2.png?raw=true"/>
 <p><strong><a href="https://github.com/TheMendoza/TheMendoza.github.io/blob/main/Insights%20into%20Healthcare%20Costs%20-%20Identifying%20Key%20Drivers.pdf" target="_blank">See Full Overview</a></strong></p>
 <p><strong>Purpose and Objectives</strong><br>To understand the factors that influence medical insurance costs and to develop predictive model for estimating healthcare expenses.</p>
-<p><strong>Scope:</strong> Loading and preprocessing the data, conducting Exploratory Data Analysis (EDA), visualizations, performing correlation analysis, summarizing the findings, and deriving actionalble insights to guide insurance companies and public health initiatives.</p>
-
+<p><strong>Scope</strong><br><li>Loading and preprocessing the data</li><li>Conducting Exploratory Data Analysis (EDA)</li><li>Visualizations</li><li>Performing correlation analysis</li><li>Summarizing the findings</li> <li>Deriving actionable insights to guide insurance companies and public health initiatives</li></p>
+<p><strong>Tools Used for this Project</strong><br>Python and PowerPoint</p>
 
 ---
 
@@ -21,7 +21,6 @@ Insights Into Healthcare Costs | Identifying Key Drivers
 <p><strong>Purpose and Objectives</strong><br>Monitoring trends and identifying hotspots in street crime in the UK</p>
 <p><strong>Questions it should answer:</strong> What are the trends in street crime over the specified period? Where are the hotspots of street crime located?</p>
 <p><strong>Decisions it should inform:</strong> Deployment of police resources, adjustment of crime prevention strategies, and allocation of investigative efforts.</p>
-<p><strong>About Dataset:</strong><br>df.info()<br><img src="UK_AllForces2024_Project_Python.JPG?raw=true"/></p>
 <p><strong>Tools Used for this Project</strong><br>Tableau, Excel, Power BI, and Python</p>
 
 Power BI - UK Street Crimes | KPI Cards | January - May 2024
