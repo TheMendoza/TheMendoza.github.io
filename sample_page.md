@@ -128,6 +128,28 @@ LIMIT 5;
 - The Pepperoni Pizza 2418
 - The Thai Chicken Pizza 2371
 
+### 7. Bottom 5 Worst Sellers by Total Pizzas Sold
+```javascript
+SELECT 
+    pt.name AS pizza_name,
+    SUM(od.quantity) AS total_pizzas_sold
+FROM 
+    order_details od
+JOIN 
+    pizzas p ON od.pizza_id = p.pizza_id
+JOIN 
+    pizza_types pt ON p.pizza_type_id = pt.pizza_type_id
+GROUP BY 
+    pt.name
+ORDER BY 
+    total_pizzas_sold ASC
+LIMIT 5;
+```
+- The Brie Carre Pizza 490
+- The Mediterranean Pizza 934
+- The Calabrese Pizza 937
+- The Spinach Supreme Pizza 950
+- The Soppressata Pizza 961
 
 
 
