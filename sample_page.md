@@ -1,6 +1,6 @@
 ## SQL
 
-## Pizza
+## Pizza Data Analysis
 
 ### 1. What are the top 3 busiest days, when the most orders are received?
 ```javascript
