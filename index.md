@@ -98,13 +98,8 @@ Power BI - Dashboard Exercise
 
 ---
 
-### Category Name 2
+### [See my GitHub Repository](https://github.com/TheMendoza/Data-Analysis-Portfolio/blob/main/README.md) 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
