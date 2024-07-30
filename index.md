@@ -20,6 +20,7 @@
 [Tableau - UK Police Force | Street Crime Dashboard | January - April 2024: Monitoring Trends and Hotspots](https://public.tableau.com/app/profile/jonnel.mendoza/viz/AllForces2024/Dashboard1)
 <img src="AllForces_latest_160724.png?raw=true"/>
 <p><strong><a href="https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UK%20Police%20Force%20Street%20Crime%20Dashboard%20Overview.pdf" target="_blank">See Full Overview</a></strong></p>
+<p><strong>Scope</strong><li>330 UK Boroughs/Councils</li><li>42 Territorial Police Force (excluding the Manchester Police - due to a change in IT systems)</li></p>
 <p><strong>Purpose and Objectives</strong><br>Monitoring trends and identifying hotspots in street crime in the UK</p>
 <p><strong>Questions it should answer:</strong> What are the trends in street crime over the specified period? Where are the hotspots of street crime located?</p>
 <p><strong>Decisions it should inform:</strong> Deployment of police resources, adjustment of crime prevention strategies, and allocation of investigative efforts.</p>
