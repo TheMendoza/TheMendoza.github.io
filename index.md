@@ -26,6 +26,7 @@
 <p><strong>Decisions it should inform:</strong> Deployment of police resources, adjustment of crime prevention strategies, and allocation of investigative efforts.</p>
 <p><strong>Tools Used for this Project</strong><br>Tableau, Excel, Power BI, and Python</p>
 
+---
 Power BI - UK Street Crimes | KPI Cards | January - May 2024
 <img src="UKStreetCrimesKPICards.gif?raw=true"/>
 
