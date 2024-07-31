@@ -3,7 +3,7 @@
 ## Pizza Data Analysis
 
 ### 1. What are the top 3 busiest days, when the most orders are received?
-```javascript
+```sql
 SELECT o.date, COUNT(DISTINCT o.order_id) AS total_orders
 FROM orders o
 JOIN order_details od ON o.order_id = od.order_id
@@ -16,7 +16,7 @@ LIMIT 3;
 - 2015/10/15 107
 
 ### 2. What time of day are most orders placed?
-```javascript
+```sql
 SELECT HOUR(time) AS order_hour, COUNT(*) AS total_orders
 FROM orders
 GROUP BY HOUR(time)
@@ -27,7 +27,7 @@ LIMIT 1;
 - Total orders 3829
 
 ### 3. Percentage of Sales by Pizza Category
-```javascript
+```sql
 SELECT 
     pt.category,
     SUM(od.quantity * p.price) AS category_sales,
@@ -55,7 +55,7 @@ ORDER BY
 - Veggie 293174 sales equals 23.7%
 
 ### 4. Percentage of Sales by Pizza Size
-```javascript
+```sql
 SELECT 
     p.size,
     SUM(od.quantity * p.price) AS size_sales,
@@ -83,7 +83,7 @@ ORDER BY
 - XXL	1617.75	    0.13100504
 
 ### 5. Total Pizzas Sold by Pizza Category
-```javascript
+```sql
 SELECT 
     pt.category,
     SUM(od.quantity) AS total_pizzas_sold
@@ -106,7 +106,7 @@ ORDER BY
 - Chicken 16643
 
 ### 6. Top 5 Best Sellers by Total Pizzas Sold
-```javascript
+```sql
 SELECT 
     pt.name AS pizza_name,
     SUM(od.quantity) AS total_pizzas_sold
@@ -129,7 +129,7 @@ LIMIT 5;
 - The Thai Chicken Pizza 2371
 
 ### 7. Bottom 5 Worst Sellers by Total Pizzas Sold
-```javascript
+```sql
 SELECT 
     pt.name AS pizza_name,
     SUM(od.quantity) AS total_pizzas_sold
