@@ -4,7 +4,7 @@
 
 ### Current Project
 
-<p><strong>Cardiac Triage Questionnaire App</strong></p>
+<p><strong>Cardiac Triage Questionnaire App (app)</strong></p>
 <img src="CardiacTriageAppSnippet2.png?raw=true"/>
 <p><strong>Purpose and Objectives</strong><br>The Cardiac Triage Questionnaire app is designed to streamline the patient intake process by assessing and recording the severity of cardiac symptoms upon arrival or registration. Using a simple Python-based interface, this tool provides a quick and efficient way to prioritize patient care based on their triage scores.</p>
 <p>The primary purpose of the app is to facilitate effective and timely triage decisions in a healthcare setting. By evaluating patient responses to a series of pre-defined questions, the app calculates a total score that indicates the urgency of the patient's condition.</p>
@@ -20,7 +20,7 @@
 
 ### Latest Project
 
-<p><strong>Insights into Healthcare Costs | Identifying Key Drivers</strong></p>
+<p><strong>Insights into Healthcare Costs | Identifying Key Drivers (Data Analysis)</strong></p>
 <img src="Python_Project1_Healthcare_Costs2.png?raw=true"/>
 <img src="Portfolio_snippet1.png?raw=true"/>
 <img src="Portfolio_snippet2.png?raw=true"/>
@@ -30,7 +30,7 @@
 <p><strong>Tools Used for this Project</strong><br>Python, Pandas, Seaborn, Matplotlib and PowerPoint</p>
 
 ---
-[Tableau - UK Police Force | Street Crime Dashboard | January - April 2024: Monitoring Trends and Hotspots](https://public.tableau.com/app/profile/jonnel.mendoza/viz/AllForces2024/Dashboard1)
+[Tableau - UK Police Force | Street Crime Dashboard | January - April 2024: Monitoring Trends and Hotspots](https://public.tableau.com/app/profile/jonnel.mendoza/viz/AllForces2024/Dashboard1) (Dashboard)
 <img src="AllForces_latest_160724.png?raw=true"/>
 <p><strong><a href="https://github.com/TheMendoza/TheMendoza.github.io/blob/main/UK%20Police%20Force%20Street%20Crime%20Dashboard%20Overview.pdf" target="_blank">See Full Overview</a></strong></p>
 <p><strong>Scope</strong><li>330 UK Boroughs/Councils</li><li>42 Territorial Police Force (excluding the Manchester Police - due to a change in IT systems)</li></p>
