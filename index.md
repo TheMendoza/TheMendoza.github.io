@@ -8,8 +8,7 @@
 <img src="EtsyShopAnalysis.png?raw=true"/>
 <p><strong>Purpose</strong><br>To analyze and visualize sales performance of an Etsy shop over the course of a year, providing insights into sales trends, monthly performance, and geographical distribution of orders.</p>
 <p><strong>Objectives</strong><li>Daily Sales Heatmap: Create a full-year calendar heatmap to visualize daily sales data, highlighting patterns and anomalies in sales activity.</li><li>Monthly Sales Analysis: Compare actual monthly sales figures against estimates to assess forecasting accuracy and identify trends.</li><li>Geospatial Analysis: Map order locations to understand regional sales distribution and identify potential market opportunities.</li></p>
-This project aims to offer a comprehensive overview of sales performance and help in making data-driven decisions for optimizing sales strategies and improving forecasting accuracy.
-
+<p>This project aims to offer a comprehensive overview of sales performance and help in making data-driven decisions for optimizing sales strategies and improving forecasting accuracy.</p>
 <p><strong>Tools Used for this Project</strong><br>Tableau</p>
 
 ---
