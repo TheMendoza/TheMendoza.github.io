@@ -4,6 +4,14 @@
 
 ### Current Project
 
+<p><strong>UK Street Crime 2024 | Analysis</strong></p>
+<img src="1.png?raw=true"/>
+<img src="2.png?raw=true"/>
+<img src="3.png?raw=true"/>
+<p><strong>Tools Used for this Project</strong><br>Python and Tableau</p>
+
+---
+
 <p><strong>Etsy Shop | Full Year Calendar Heatmap - Sales & Forecast Summary</strong></p>
 <img src="EtsyShopAnalysis2.png?raw=true"/>
 <p><strong>Purpose</strong><br>To analyze and visualize sales performance of an Etsy shop over the course of a year, providing insights into sales trends, monthly performance, and geographical distribution of orders.</p>
