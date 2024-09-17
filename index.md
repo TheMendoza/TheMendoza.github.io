@@ -4,11 +4,11 @@
 
 ### Current Project
 
-[Tableau - UK Street Crime 2024 | Analysis - 2nd draft](https://public.tableau.com/app/profile/jonnel.mendoza/viz/UKStreetCrime2024SecondDraft/Dashboard1)
-<img src="2.1.png?raw=true"/>
-<img src="2.2.png?raw=true"/>
-<img src="2.3.png?raw=true"/>
-<img src="2.4.png?raw=true"/>
+[Tableau - UK Street Crime 2024 | Analysis - FINAL](https://public.tableau.com/app/profile/jonnel.mendoza/viz/UKStreetCrime2024SecondDraft/Dashboard1)
+<img src="1Final.png?raw=true"/>
+<img src="2Final.png?raw=true"/>
+<img src="3Final.png?raw=true"/>
+<img src="4Final.png?raw=true"/>
 <p><strong>Tools Used for this Project</strong><br>Python and Tableau</p>
 
 ---
